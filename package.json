@@ -5,7 +5,7 @@
   "main": "./lib/bugsnag.js",
   "homepage": "http://bugsnag.com",
   "dependencies": {
-    "tracejs": ">=0.1.0"
+    "tracejs": "git://github.com/Heyride/tracejs.git"
   },
   "repository": {
     "type": "git",
